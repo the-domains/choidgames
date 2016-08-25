@@ -1,3 +1,4 @@
+layout_spectrum: 0.5236452331300825
 typography_spectrum: 0.34621207136660814
 color:
   brandStrength: 0.2502410707529634
@@ -10,6 +11,4 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-layout_spectrum: 0.5236452331300825
 name: ChoidGames
-title: ChoidGames
