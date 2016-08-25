@@ -1,0 +1,14 @@
+layout_spectrum: 0.5236452331300825
+typography_spectrum: 0.34621207136660814
+color:
+  brandStrength: 0.2502410707529634
+  lightness: 0.7219926866237074
+  saturation: 0.45593029353767633
+  rhythmicContrast: 0.38860396621748805
+  brandColors:
+    - '#FFFFFF'
+    - '#597BC3'
+    - '#000000'
+    - '#FF493F'
+    - '#0836F8'
+name: ChoidGames
